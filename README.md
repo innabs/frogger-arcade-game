@@ -1,5 +1,8 @@
 # Froger Arcade Game
 
+An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript. Also used jQuery, bootstrap framework and image-picker JS libraries for nice UI.
+A part of the Front-End Web Developer Nanodegree program.
+
 ## Game Rules and Features:
 
 In this game you have a Player and Enemies (Bugs). 
